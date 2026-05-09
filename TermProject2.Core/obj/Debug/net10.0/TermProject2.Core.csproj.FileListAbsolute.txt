@@ -1,0 +1,11 @@
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\bin\Debug\net10.0\TermProject2.Core.deps.json
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\bin\Debug\net10.0\TermProject2.Core.dll
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\bin\Debug\net10.0\TermProject2.Core.pdb
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.AssemblyInfoInputs.cache
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.AssemblyInfo.cs
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.dll
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\refint\TermProject2.Core.dll
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\TermProject2.Core.pdb
+C:\Users\oguzh\Desktop\workspace\sengtestodev\TermProject2.Core\obj\Debug\net10.0\ref\TermProject2.Core.dll

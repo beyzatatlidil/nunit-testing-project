@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TermProject2.Core/1.0.0": {
+        "runtime": {
+          "TermProject2.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TermProject2.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
